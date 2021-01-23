@@ -2,4 +2,4 @@
 
 ---
 
-- MyBlog: https://fdu2019xzy.github.io/CsBlog/
+- MyBlog: https://ziyang-xie.github.io/CsBlog/
