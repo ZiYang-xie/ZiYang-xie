@@ -2,8 +2,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiYang-xie&show_icons=true&theme=radical)
 
 
-## MyBlog: 📑
-https://xcraft.tech
+## My Blog: 📑
+> https://xcraft.tech
 
 ## My Github Contribution 🤩
 ![](https://raw.githubusercontent.com/ZiYang-xie/ZiYang-xie/main/assets/github-contribution-grid-snake.svg)
