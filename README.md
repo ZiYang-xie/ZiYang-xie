@@ -1,9 +1,13 @@
+<div align="center">
+  
+# ZiYang-Xie Here 👋
+**BS, Computer Science @ Fudan University**  
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=ZiYang-xie&no-frame=true&column=4&margin-w=36&margin-h=12)
+</div>
+
 ## Commit 🕶 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiYang-xie&show_icons=true&theme=radical)
-
-
-## Blog 📑
-> https://xcraft.tech
 
 ## Github Contribution 🤩
 ![](https://raw.githubusercontent.com/ZiYang-xie/ZiYang-xie/main/assets/github-contribution-grid-snake.svg)
