@@ -39,6 +39,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
-## Github Contribution 🤩
-![](https://raw.githubusercontent.com/ZiYang-xie/ZiYang-xie/main/assets/github-contribution-grid-snake.svg)
+## Check My Blog 🤩
+https://xcraft.tech/
 
+Let's connect 👨‍💻 and forge the future together.😁
