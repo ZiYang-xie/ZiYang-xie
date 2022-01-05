@@ -11,7 +11,8 @@
 </div>
 
 ## 👨🏽‍💻 Currently Working on
-- Computer Vision (detection field) specilized in Monocular 3D object detection
+- Computer Vision (detection field) 
+- **Monocular 3D object detection**
 
 ## 🌱 Currently Learning
 - Operating system
