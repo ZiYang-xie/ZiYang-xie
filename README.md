@@ -3,6 +3,7 @@
 # Hi~ ZiYang-Xie Here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 **BS, Computer Science @ Fudan University**  
+📫  *Reach Me: ziyangxie19@fudan.edu.cn*
   
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false)
   
