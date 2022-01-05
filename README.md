@@ -9,7 +9,13 @@
 </div>
 
 ## Commit 🕶 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiYang-xie&show_icons=true&theme=radical)
+<div align="">
+
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiYang-xie&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiYang-xie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ## Github Contribution 🤩
 ![](https://raw.githubusercontent.com/ZiYang-xie/ZiYang-xie/main/assets/github-contribution-grid-snake.svg)
