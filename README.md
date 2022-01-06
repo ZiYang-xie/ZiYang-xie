@@ -38,8 +38,19 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![GoLang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+
+## Tech Stack
+
+![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![Git](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 
 ## Check My Blog 🤩
 https://xcraft.tech/
