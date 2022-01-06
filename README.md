@@ -28,7 +28,7 @@
 <div align="">
 
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiYang-xie&show_icons=true) &nbsp; &nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiYang-xie&show_icons=true) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiYang-xie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
