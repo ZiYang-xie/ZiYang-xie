@@ -21,8 +21,8 @@
 - GoLang
 
 ## 🤔 What I'm interested in
-- Build sth fun and useful
-- Share my learning experience
+- Building sth fun and useful
+- Sharing my learning experience
 
 ## Commit 🕶 
 <div align="">
