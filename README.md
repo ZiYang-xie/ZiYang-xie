@@ -50,6 +50,7 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
 ![Git](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 
 ## Check My Blog 🤩
