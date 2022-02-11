@@ -12,7 +12,8 @@
 
 ## 👨🏽‍💻 Currently Working on
 - Computer Vision (detection field) 
-- **Monocular 3D object detection**
+- Monocular 3D object detection
+- Sample Reconstruction
 
 ## 🌱 Currently Learning
 - Operating system
