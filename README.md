@@ -13,7 +13,7 @@
 ## 👨🏽‍💻 Currently Working on
 - Computer Vision (detection field) 
 - Monocular 3D object detection
-- Sample Reconstruction
+- 3D Reconstruction / NeRF related projects
 
 ## 🌱 Currently Learning
 - Operating system
