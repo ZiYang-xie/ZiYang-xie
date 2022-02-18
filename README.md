@@ -11,18 +11,18 @@
 </div>
 
 ## 👨🏽‍💻 Currently Working on
-- Computer Vision (detection field) 
-- Monocular 3D object detection
-- 3D Reconstruction / NeRF related projects
+- Computer Vision (detection field) 🤖
+- Monocular 3D object detection 👀
+- 3D Reconstruction / NeRF related projects 🔎
 
 ## 🌱 Currently Learning
-- Operating system
-- Compuer Vision
-- Nature Language Processing
-- GoLang
+- Operating system 💻
+- Guitar 🎸
+- GoLang 👽
+- AR related Tech Stack 👓
 
 ## 🤔 What I'm interested in
-- Building sth fun and useful
+- Building sth fun and useful 
 - Sharing my learning experience
 
 ## Commit 🕶 
