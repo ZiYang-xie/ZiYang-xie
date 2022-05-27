@@ -12,15 +12,16 @@
 </div>
 
 ## 👨🏽‍💻 Currently Working on
+- NeRF / 3D Reconstruction related projects 🔎
 - Computer Vision (detection field) 🤖
 - Monocular 3D object detection 👀
-- 3D Reconstruction / NeRF related projects 🔎
+
 
 ## 🌱 Currently Learning
-- Operating system 💻
+- AR related Tech Stack 👓
 - Guitar 🎸
 - GoLang 👽
-- AR related Tech Stack 👓
+
 
 ## 🤔 What I'm interested in
 - Building sth fun and useful 
