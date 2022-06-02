@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi~ ZiYang-Xie Here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Hi~ ZiYang-Xie Here <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px;"/>!-->
 
 **BS, Computer Science @ Fudan University**  
 **Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**  
