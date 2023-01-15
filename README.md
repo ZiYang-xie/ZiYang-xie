@@ -3,8 +3,8 @@
 # Hi~ ZiYang-Xie Here <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px;"/>!-->
 
 **BS, Computer Science @ Fudan University**  
-**Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**  
-📫  *Reach Me: ziyangxie19@fudan.edu.cn / xieziyang@senseauto.com*
+<!-- **Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**   -->
+📫  *Reach Me: ziyangxie19@fudan.edu.cn / ziyangxie01@gmail.com
   
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
@@ -15,15 +15,13 @@
 </div>
 
 ## 👨🏽‍💻 Currently Working on
+- 3D generation diffusion model 🍰
 - NeRF / 3D Reconstruction related projects 🔎
-- Computer Vision (detection field) 🤖
-- Monocular 3D object detection 👀
 
 
 ## 🌱 Currently Learning
 - AR related Tech Stack 👓
 - Guitar 🎸
-- GoLang 👽
 
 
 ## 🤔 What I'm interested in
