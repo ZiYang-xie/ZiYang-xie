@@ -57,7 +57,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 
-## Check My Blog 🤩
-https://xcraft.tech/
+## Check My Page & Blog 🤩
+[Personal Page](ziyangxie.site) \ [Blog](xcraft.tech)
 
 Let's connect 👨‍💻 and forge the future together.😁
