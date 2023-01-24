@@ -58,6 +58,6 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 
 ## Check My Page & Blog 🤩
-[Personal Page](ziyangxie.site) \ [Blog](xcraft.tech)
+[Personal Page](https://ziyangxie.site) \ [Blog](https://xcraft.tech)
 
 Let's connect 👨‍💻 and forge the future together.😁
