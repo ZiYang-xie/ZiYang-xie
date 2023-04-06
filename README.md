@@ -1,10 +1,13 @@
 <div align="center">
   
-# Hi~ ZiYang-Xie Here <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px;"/>!-->
-
-**BS, Computer Science @ Fudan University**  
+# Hi~ 👋 ZiYang-Xie Here <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px;"/>!-->
+  
+ 🧑‍🎓 *BS, Computer Science* @ **Fudan University**   
+ 🚀 *Incoming CS Master Student* @ **UIUC**  
+  
 <!-- **Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**   -->
-📫  *Reach Me: ziyangxie19@fudan.edu.cn / ziyangxie01@gmail.com
+📫 **Mail:** ziyangxie19@fudan.edu.cn / ziyangxie01@gmail.com  
+📨 **Wechat:** ZiYang-Xie
   
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
@@ -15,16 +18,18 @@
 </div>
 
 ## 👨🏽‍💻 Currently Working on
+- AIGCxWeb3 Project 🪙
 - 3D generation diffusion model 🍰
+- Self-Driving CV Algorithm 🚗 
 - NeRF / 3D Reconstruction related projects 🔎
 
-
 ## 🌱 Currently Learning
+- Robotics 🤖 and Rocket Tech Stack 🚀
 - AR related Tech Stack 👓
 - Guitar 🎸
 
 
-## 🤔 What I'm interested in
+## 🤔 What I'm interested in 
 - Building sth fun and useful 
 - Sharing my learning experience
 
@@ -58,6 +63,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 
 ## Check My Page & Blog 🤩
-[Personal Page](https://ziyangxie.site) \ [Blog](https://xcraft.tech)
+[📑 Personal Page](https://ziyangxie.site)  
+[📚 Blog (not update lately)](https://xcraft.tech)
 
 Let's connect 👨‍💻 and forge the future together.😁
