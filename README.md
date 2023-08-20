@@ -2,8 +2,8 @@
   
 # Hi~ 👋 ZiYang-Xie Here <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px;"/>!-->
   
+ 🚀 *Master of Science. Computer Science (MSCS) Student* @ **UIUC**  
  🧑‍🎓 *BS, Computer Science* @ **Fudan University**   
- 🚀 *Incoming CS Master Student* @ **UIUC**  
   
 <!-- **Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**   -->
 📫 **Mail:** ziyangxie19@fudan.edu.cn / ziyangxie01@gmail.com  
@@ -11,7 +11,6 @@
   
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
 
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false)
 [![wakatime](https://wakatime.com/badge/user/b7f28f3b-b8e9-478e-bd5b-7f89dc6a5330.svg)](https://wakatime.com/@b7f28f3b-b8e9-478e-bd5b-7f89dc6a5330)
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=ZiYang-xie&no-frame=true&column=4&margin-w=36&margin-h=12)
