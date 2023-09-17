@@ -17,10 +17,10 @@
 </div>
 
 ## 👨🏽‍💻 Currently Working on
-- AIGCxWeb3 Project 🪙
 - 3D generation diffusion model 🍰
 - Self-Driving CV Algorithm 🚗 
 - NeRF / 3D Reconstruction related projects 🔎
+- AIGCxWeb3 Project 🪙
 
 ## 🌱 Currently Learning
 - Robotics 🤖 and Rocket Tech Stack 🚀
