@@ -6,7 +6,7 @@
  🧑‍🎓 *BS, Computer Science* @ **Fudan University**   
   
 <!-- **Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**   -->
-📫 **Mail:** ziyangxie19@fudan.edu.cn / ziyangxie01@gmail.com  
+📫 **Mail:** ziyang8@illinois.edu / ziyangxie01@gmail.com  
 📨 **Wechat:** ZiYang-Xie
   
 <!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
