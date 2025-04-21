@@ -1,26 +1,24 @@
 <div align="center">
   
 # Hi~ 👋 Ziyang-Xie Here <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px;"/>!-->
-  
- 🚀 *Master of Science. Computer Science (MSCS) Student* @ **UIUC**  
+
+ 🚀 *Tech Co-Founder @ **Manifolds AI***   
+ 🌽 *MSCS* @ **UIUC**  
  🧑‍🎓 *BS, Computer Science* @ **Fudan University**   
-  
-📫 **Mail:** ziyang8@illinois.edu / ziyangxie01@gmail.com  
-📨 **Wechat:** ZiYang-Xie
-  
-<!-- ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/521?logoColor=white%26project=%26recentMS=0%26showProject=false) -->
+
+📇 **Personal Page:** https://ziyangxie.site/ |&nbsp; 📫 **Mail:** ziyangxie01@gmail.com |&nbsp; 📨 **Wechat:** ZiYang-Xie  
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=ZiYang-xie&no-frame=true&column=4&margin-w=36&margin-h=12)
 </div>
 
-## 👨🏽‍💻 Currently Working on
-- 3D generation diffusion model 🍰
-- Self-Driving CV Algorithm 🚗 
-- NeRF / 3D Reconstruction related projects 🔎
-- AIGCxWeb3 Project 🪙
+## 👨🏽‍💻 Specialized In
+- 3D Scene Reconstruction, Generation, and Simulation
+- Neural Rendering and Video Diffusion
+- Full-Stack Development
+- Vibe Coding
 
 ## 🌱 Currently Learning
-- Robotics 🤖 and Rocket Tech Stack 🚀
+- Robotics 🤖
 - AR related Tech Stack 👓
 - Guitar 🎸
 
